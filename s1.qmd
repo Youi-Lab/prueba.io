@@ -14,7 +14,7 @@ La inteligencia artificial (IA) es un término que se utiliza ampliamente hoy en
 
 El término "inteligencia artificial" fue acuñado oficialmente en 1955 por [**John McCarthy**][1], entonces un joven profesor asistente de matemáticas en el Dartmouth College. McCarthy utilizó el término en una propuesta de subvención para un taller de verano que organizaba junto con **Marvin Minsky, Nathaniel Rochester y Claude Shannon**. La propuesta, fechada el 31 de agosto de 1955, comenzaba con una declaración concisa pero ambiciosa que puede considerarse la definición original de IA:
 
-[1]:https://es.wikipedia.org/wiki/John_McCarthy_(cient%C3%ADfico)
+[1]: (https://es.wikipedia.org/wiki/John_McCarthy_(cient%C3%ADfico))
 
 > "El estudio se basará en la conjetura de que todo aspecto del aprendizaje o cualquier otra característica de la inteligencia puede, en principio, describirse con tanta precisión que se pueda hacer que una máquina lo simule." (McCarthy *et al.*, 1955)
 
