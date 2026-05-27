@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IA",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "s1.html",
+    "href": "s1.html",
+    "title": "Qué es la Inteligencia Artificial",
+    "section": "",
+    "text": "La inteligencia artificial (IA) es un término que se utiliza ampliamente hoy en día, pero aún no existe una definición única universalmente aceptada. El concepto tiene una historia rica, y mirar hacia atrás a cómo se definió la IA inicialmente, y cómo han evolucionado las definiciones, nos ayuda a comprender tanto las promesas como los desafíos del campo."
+  },
+  {
+    "objectID": "s1.html#introducción",
+    "href": "s1.html#introducción",
+    "title": "Qué es la Inteligencia Artificial",
+    "section": "",
+    "text": "La inteligencia artificial (IA) es un término que se utiliza ampliamente hoy en día, pero aún no existe una definición única universalmente aceptada. El concepto tiene una historia rica, y mirar hacia atrás a cómo se definió la IA inicialmente, y cómo han evolucionado las definiciones, nos ayuda a comprender tanto las promesas como los desafíos del campo."
+  },
+  {
+    "objectID": "s1.html#el-taller-de-dartmouth-y-la-definición-original-de-john-mccarthy",
+    "href": "s1.html#el-taller-de-dartmouth-y-la-definición-original-de-john-mccarthy",
+    "title": "Qué es la Inteligencia Artificial",
+    "section": "El taller de Dartmouth y la definición original de John McCarthy",
+    "text": "El taller de Dartmouth y la definición original de John McCarthy\nEl término “inteligencia artificial” fue acuñado oficialmente en 1955 por John McCarthy, entonces un joven profesor asistente de matemáticas en el Dartmouth College. McCarthy utilizó el término en una propuesta de subvención para un taller de verano que organizaba junto con Marvin Minsky, Nathaniel Rochester y Claude Shannon. La propuesta, fechada el 31 de agosto de 1955, comenzaba con una declaración concisa pero ambiciosa que puede considerarse la definición original de IA:\n\n“El estudio se basará en la conjetura de que todo aspecto del aprendizaje o cualquier otra característica de la inteligencia puede, en principio, describirse con tanta precisión que se pueda hacer que una máquina lo simule.” (McCarthy et al., 1955)\n\nEl Proyecto de Investigación de Verano sobre Inteligencia Artificial de Dartmouth, realizado en 1956, se considera hoy el evento fundacional de la IA como campo científico (Wikipedia, 2024). Después del taller, McCarthy continuó refinando su definición, describiendo la IA más famosamente como “la ciencia y la ingeniería de crear máquinas inteligentes, especialmente programas informáticos inteligentes” (McCarthy, 2007). Otros pioneros ofrecieron definiciones similares: Marvin Minsky llamó a la IA “la ciencia de hacer que las máquinas realicen tareas que requerirían inteligencia si las realizara un ser humano” (Minsky, 1968)."
+  },
+  {
+    "objectID": "s1.html#cómo-se-ha-ampliado-la-definición-de-ia-a-lo-largo-de-los-años",
+    "href": "s1.html#cómo-se-ha-ampliado-la-definición-de-ia-a-lo-largo-de-los-años",
+    "title": "Qué es la Inteligencia Artificial",
+    "section": "Cómo se ha ampliado la definición de IA a lo largo de los años",
+    "text": "Cómo se ha ampliado la definición de IA a lo largo de los años\nDesde la formulación inicial de McCarthy, la IA se ha definido de numerosas maneras, reflejando a menudo la perspectiva específica o el dominio de aplicación del autor. Un marco influyente para clasificar las definiciones fue propuesto por Stuart Russell y Peter Norvig en su libro Inteligencia Artificial: Un Enfoque Moderno. Agrupan las definiciones en cuatro categorías según se centren en el comportamiento humano versus racional, y en el pensar versus actuar (Russell y Norvig, 2020):\n\n\n\n\n\n\n\n\nEnfoque\nRendimiento similar al humano\nRendimiento racional\n\n\n\n\nSistemas que piensan\n“El emocionante nuevo esfuerzo por hacer que las computadoras piensen… máquinas con mentes” (Haugeland)\n“El estudio de los cálculos que hacen posible percibir, razonar y actuar” (Winston)\n\n\nSistemas que actúan\n“El arte de crear máquinas que realizan funciones que requieren inteligencia cuando las realiza una persona” (Kurzweil)\n“El estudio de cómo hacer que las computadoras hagan cosas en las que, por el momento, las personas son mejores” (Rich y Knight)\n\n\n\nOtros investigadores han ofrecido sus propias definiciones concisas:\n\nJoseph Feigenbaum (1983): “Si podemos imaginar un artefacto que pueda recolectar, ensamblar, elegir, comprender, percibir y saber, entonces tenemos una inteligencia artificial.”\nNils Nilsson (2010): “La IA es la actividad dedicada a hacer inteligentes a las máquinas, y la inteligencia es esa cualidad que permite a una entidad funcionar apropiadamente y con previsión en su entorno.”\nSchank y Abelson (1977): “La inteligencia artificial es un esfuerzo progresivo para crear artificialmente capacidades cognitivas en máquinas que poseen los seres vivos.”\n\nMás recientemente, las definiciones han enfatizado la naturaleza sociotécnica de la IA. Algunos académicos defienden una definición sociotécnica que considera la IA no solo como un artefacto técnico sino también como parte de sistemas sociales e institucionales más amplios (Kempt y Nagel, 2024). Otros proponen una definición centrada en el agente que se enfoca en sistemas que operan con conocimiento y recursos insuficientes (Wang, 2019). Estos esfuerzos contemporáneos resaltan que definir la IA no es solo un ejercicio técnico sino también una necesidad filosófica y práctica para la regulación, la ética y las políticas públicas (Kempt y Nagel, 2024; Wang, 2019)."
+  },
+  {
+    "objectID": "s1.html#referencias",
+    "href": "s1.html#referencias",
+    "title": "Qué es la Inteligencia Artificial",
+    "section": "Referencias",
+    "text": "Referencias\n\nFeigenbaum, E. A. (1983). Knowledge engineering: The applied side of artificial intelligence. Annals of the New York Academy of Sciences.\nKempt, H., y Nagel, S. K. (2024). A sociotechnical definition of artificial intelligence. AI & Society, 39, 2287–2299.\nMcCarthy, J. (2007). What is artificial intelligence? Stanford University.\nMcCarthy, J., Minsky, M., Rochester, N., y Shannon, C. (1955). A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence.\nMinsky, M. (1968). Semantic information processing. MIT Press.\nNilsson, N. J. (2010). The Quest for Artificial Intelligence. Cambridge University Press.\nRussell, S., y Norvig, P. (2020). Artificial Intelligence: A Modern Approach (4ª ed.). Pearson.\nSchank, R., y Abelson, R. (1977). Scripts, Plans, Goals, and Understanding. Lawrence Erlbaum.\nWang, P. (2019). On defining artificial intelligence. Journal of Artificial General Intelligence, 10(2), 1–37.\nWikipedia. (2024). Dartmouth workshop. Recuperado de https://en.wikipedia.org/wiki/Dartmouth_workshop"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
