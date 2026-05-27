@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "IA",
@@ -47,5 +40,12 @@
     "title": "Qué es la Inteligencia Artificial",
     "section": "Referencias",
     "text": "Referencias\n\nFeigenbaum, E. A. (1983). Knowledge engineering: The applied side of artificial intelligence. Annals of the New York Academy of Sciences.\nKempt, H., y Nagel, S. K. (2024). A sociotechnical definition of artificial intelligence. AI & Society, 39, 2287–2299.\nMcCarthy, J. (2007). What is artificial intelligence? Stanford University.\nMcCarthy, J., Minsky, M., Rochester, N., y Shannon, C. (1955). A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence.\nMinsky, M. (1968). Semantic information processing. MIT Press.\nNilsson, N. J. (2010). The Quest for Artificial Intelligence. Cambridge University Press.\nRussell, S., y Norvig, P. (2020). Artificial Intelligence: A Modern Approach (4ª ed.). Pearson.\nSchank, R., y Abelson, R. (1977). Scripts, Plans, Goals, and Understanding. Lawrence Erlbaum.\nWang, P. (2019). On defining artificial intelligence. Journal of Artificial General Intelligence, 10(2), 1–37.\nWikipedia. (2024). Dartmouth workshop. Recuperado de https://en.wikipedia.org/wiki/Dartmouth_workshop"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
